@@ -1,0 +1,20 @@
+{
+  "name": "lc-utils",
+  "version": "1.0.0",
+  "description": "Pacotes úteis para o dia-a-dia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassouza97/lc-utils.git"
+  },
+  "keywords": [],
+  "author": "llucassouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassouza97/lc-utils/issues"
+  },
+  "homepage": "https://github.com/lucassouza97/lc-utils#readme"
+}
